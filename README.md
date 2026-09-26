@@ -56,6 +56,9 @@ Calories-Burnt-Predictor/
 │
 └── README.md
 ```
+## Datasets
+
+The datasets used in this project were sourced from Kaggle.
 
 ---
 
